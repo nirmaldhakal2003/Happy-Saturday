@@ -1,6 +1,6 @@
-### To setup backend
+# To setup backend
 
-# Run this command in PowerShell, git bas will throw error.
+### Run this command in PowerShell, git bash will throw error.
 
 ```bash
 npm init -y; npm install express mysql2 dotenv zod prisma @prisma/client; npm install -D typescript ts-node @types/node @types/express concurrently
